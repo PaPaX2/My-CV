@@ -1,0 +1,1 @@
+console.log('skrypt odpowiedzialny za zmianę języka');
